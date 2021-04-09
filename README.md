@@ -1,0 +1,2 @@
+# projectAI
+yapay zeka projesi
